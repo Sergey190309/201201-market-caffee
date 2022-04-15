@@ -1,0 +1,24 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Landing page testing it should exist and rendered (snapshot) 1`] = `
+<div>
+  <div
+    class="ui container"
+    data-testid="LandingContainer"
+  >
+    <div
+      class="ui violet segment"
+      data-testid="LandingSegment"
+    >
+      <div
+        data-testid="ElementSwitcher"
+      >
+        ElementSwitcher
+        {"00":{"type":"header"},"01":{"qnt":3,"type":"vblock","subtype":"txt"},"02":{"qnt":2,"type":"hblock","subtype":"pix"},"03":{"qnt":2,"type":"vblock","subtype":"pix"},"04":{"type":"footer"}}
+        landing
+        en
+      </div>
+    </div>
+  </div>
+</div>
+`;
